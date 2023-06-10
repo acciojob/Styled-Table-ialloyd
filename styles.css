@@ -1,15 +1,14 @@
 /* your code */
 th{
-	background-color:darkblue;
+	background-color:darkcyan;
 	color:white;
+	padding:10px;
 }
 
 table{
-
 	border:2px solid black;
 	width:100%;
 	border-collapse:collapse;
-	border-radius:px;
 }
 
 td{
